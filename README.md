@@ -2,7 +2,7 @@
 
 <img src="https://profile-counter.glitch.me/AdliXSec/count.svg">
 
-[![GitHub followers](https://img.shields.io/github/followers/AldoRachmatdianto.svg?style=social&label=Followers)](https://github.com/AdliXSec?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/AldoRachmatdianto.svg?style=social&label=Followers)](https://github.com/AldiRachmatdianto?tab=followers)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=BLUE&size=30&lines=Hey!+It's+Aldi!;I'm+a+Junior+Programmer...;I'm+also+learn+Web+Developer;And+I'm+a+from+Indonesia+in)](https://git.io/typing-svg)
 
