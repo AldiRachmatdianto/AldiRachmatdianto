@@ -4,7 +4,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/AldoRachmatdianto.svg?style=social&label=Followers)](https://github.com/AldiRachmatdianto?tab=followers)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=BLUE&size=30&lines=Hey!+It's+Aldi!;I'm+a+Junior+Programmer...;I'm+also+learn+Web+Developer;And+I'm+a+from+Indonesia+in)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=BLUE&size=30&lines=Hey!+It's+Aldi!;I'm+a+Junior+Programmer...;I'm+also+learning+Web+Developer)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=AldiRachmatdianto&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
