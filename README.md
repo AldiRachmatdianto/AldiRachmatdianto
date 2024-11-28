@@ -1,6 +1,6 @@
 # Hi I'm Aldi,
 
-<img src="https://profile-counter.glitch.me/AdliXSec/count.svg">
+<img src="https://profile-counter.glitch.me/AldiRachmatdianto/count.svg">
 
 [![GitHub followers](https://img.shields.io/github/followers/AldoRachmatdianto.svg?style=social&label=Followers)](https://github.com/AldiRachmatdianto?tab=followers)
 
